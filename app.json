@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "GYM PT PRO",
+    "slug": "gym-pt-pro",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#101112"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.gymptpro"
+    },
+    "android": {
+      "package": "com.example.gymptpro",
+      "adaptiveIcon": {
+        "backgroundColor": "#101112"
+      }
+    }
+  }
+}
